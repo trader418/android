@@ -57,6 +57,7 @@
   <project path="packages/apps/Dialer" name="trader418/android_packages_apps_Dialer" remote="github" revision="cm-13.0" />
   <project path="packages/apps/InCallUI" name="trader418/android_packages_apps_InCallUI" remote="github" revision="cm-13.0" />
   <project path="packages/apps/LockClock" name="trader418/android_packages_apps_LockClock" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Messaging" name="trader418/android_packages_apps_Messaging" remote="github" revision="cm-13.0" />
   <project path="packages/apps/OmniSwitch" name="trader418/android_packages_apps_OmniSwitch" remote="github" revision="cm-13.0" />
   <project path="packages/apps/OTAUpdates" name="trader418/OTAUpdates" revision="aosp" />
   <project path="packages/apps/PackageInstaller" name="trader418/android_packages_apps_PackageInstaller" remote="github" revision="cm-13.0" />
@@ -283,7 +284,6 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" groups="pdk-fs" />
   <!--<project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />-->
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
-  <project path="packages/apps/Messaging" name="CyanogenMod/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" groups="apps_nfc,pdk-fs" />
   <!--<project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" groups="pdk-fs" />-->
   <!--<project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />-->
